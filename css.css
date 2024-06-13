@@ -6,7 +6,7 @@
 	font-size: 18px;
 }
 body {
-    background-image: url('https://caes.cdasia.com/attached_files/pictures/202/CDAsia.jpg?1714372672');
+    background-image: url(./images/cdasiapic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
